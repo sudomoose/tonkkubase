@@ -1,0 +1,22 @@
+{
+  "name": "tonkkubase",
+  "version": "1.0.0",
+  "description": "a new data storage system, by tonkkus for tonkkus (now with more head massages)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudomoose/tonkkubase.git"
+  },
+  "author": "“sudomoose” <cooper@moosehub.xyz> (itsmoose.space)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudomoose/tonkkubase/issues"
+  },
+  "homepage": "https://github.com/sudomoose/tonkkubase#readme",
+  "dependencies": {
+    "rethinkdb": "^2.3.3"
+  }
+}
